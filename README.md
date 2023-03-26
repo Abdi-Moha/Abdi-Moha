@@ -4,7 +4,7 @@
 
 I'm a Developer and Mentor GDG Mbale, Django Girls Mbale, Asst. Organizer GDG Soroti !!
 
-Skills: JAVA / KOTLIN/ PYTHON / DART/ JS / HTML / CSS
+Skills: FLUTTER / JAVA / KOTLIN/ PYTHON / DART/ JS / HTML / CSS
 
 - 🔭 I’m currently working on https://github.com/Abdi-Moha/Android-CandyCodedApplication 
 - 🌱 I’m currently learning Flutter, Kotlin ,Python 
