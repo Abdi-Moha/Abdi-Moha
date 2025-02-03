@@ -27,8 +27,4 @@ Skills: FLUTTER / JAVA / KOTLIN/ PYTHON / DART/ JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdi-moha)  
 
-![GitHub metrics](https://metrics.lecoq.io/abdi-moha)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdi-moha)  
-
-![Profile views](https://gpvc.arturio.dev/abdi-moha)  
