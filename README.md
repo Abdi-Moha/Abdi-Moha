@@ -2,7 +2,8 @@
 #### A passionate Android/Flutter developer from Uganda
 ![A passionate Android/Flutter developer from Uganda](https://pbs.twimg.com/profile_images/1391330918741299202/tRTNGnzb_400x400.jpg)
 
-I'm a Developer and Mentor GDG Mbale, Django Girls Mbale, Asst. Organizer GDG Soroti !!
+I'm a Developer, Cyber Security, Artificial Intelligence, Machine Learning and Deep Learning Researcher #FlutterDeveloper #CodeManTechnologies❤💻📲
+Mentor GDG Mbale, Django Girls Mbale, Asst. Organizer GDG Soroti !!
 
 Skills: FLUTTER / JAVA / KOTLIN/ PYTHON / DART/ JS / HTML / CSS
 
@@ -10,8 +11,8 @@ Skills: FLUTTER / JAVA / KOTLIN/ PYTHON / DART/ JS / HTML / CSS
 - 🌱 I’m currently learning Flutter, Kotlin ,Python 
 - 👯 I’m looking to collaborate on https://github.com/Abdi-Moha/GroceryComposeUi 
 - 💬 Ask me about Flutter, Java, C++, Kotlin and Python 
-- 📫 How to reach me: lilmoha26@gmail.com 
-- ⚡ Fun fact: I love to read Novels and play PS4 Games/ FIFA 21 
+- 📫 How to reach me: lilmoha26@gmail.com
+- ⚡ Fun fact: I love to read Novels and Code Flutter Apps
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdi-moha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdi-moha-08477b124/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prince_abdiz?r=nametag/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abdimoha26) 
